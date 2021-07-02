@@ -1,0 +1,51 @@
+body{
+    background-color: rgb(243, 240, 245);
+}
+/*for box*/
+.page{
+    background-color:  rgb(220, 212, 228);;
+    border-radius: 20px;
+    width: 70%;
+    padding:  10px 50px 20px;
+    margin: 10px 100px 30px ;
+    box-shadow: 10px 5px 5px #cebcbc ;
+}
+/* for header */
+header{
+    background-color: rgb(84, 75, 92);
+    height: 45px;
+    color:whitesmoke ;
+    font-family: 'Akaya Kanadaka', cursive;
+    font-size: 25px;
+    text-align: center;
+}
+/* for lime btn title */
+.name{line-height: 20%;}
+.name h2{
+    font-family: 'Yellowtail', cursive;
+    color: rgb(138, 130, 130);}
+img{
+    padding-left: 25%;
+    width: 500px;
+}
+/* obj */
+.para{font-size: 20px;}
+
+.para h3 {color: rgb(125 120 135);}
+
+ul{font-size: 15px;}
+
+span{font-style: italic;}
+
+li{
+    list-style:none ;
+}
+h3{
+    color:rgb(138, 130, 130);
+}
+
+#footer{
+    color: rgb(192, 183, 183);
+    font-size: 15px;
+    text-align: center;
+}
